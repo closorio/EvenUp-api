@@ -1,0 +1,19 @@
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Archivos generados por Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Archivos txt
+*.txt
+
+
+# Archivos de configuración sensible
+.env
+secrets.py
